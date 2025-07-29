@@ -1,0 +1,13 @@
+com\mycompany\pharmacy\MedicalDevice.class
+com\mycompany\pharmacy\Discountable.class
+com\mycompany\pharmacy\PersonalCareItems.class
+com\mycompany\pharmacy\Client.class
+com\mycompany\pharmacy\Medicine.class
+com\mycompany\pharmacy\SystemInfo.class
+com\mycompany\pharmacy\Supplements.class
+module-info.class
+com\mycompany\pharmacy\PharmacyItem.class
+com\mycompany\pharmacy\Recipe.class
+com\mycompany\pharmacy\RecipeItem.class
+com\mycompany\pharmacy\App.class
+com\mycompany\pharmacy\Order.class
